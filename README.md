@@ -1,5 +1,6 @@
 # Instagram clone app
 
+![screenshot](screenshot.png)
 ### prerequisites
 
 `node version  20.14.0`
